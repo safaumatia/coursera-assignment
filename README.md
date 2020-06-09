@@ -1,2 +1,2 @@
-# cousera-assignment
-Cousera Assignments Repository
+# coursera-assignment
+Coursera Assignments Repository
